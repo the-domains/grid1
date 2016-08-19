@@ -1,0 +1,14 @@
+layout_spectrum: 0.7497240556403995
+typography_spectrum: 0.3274980888236314
+color:
+  brandStrength: 0.7451458389405161
+  lightness: 0.8280981001444161
+  saturation: 0.7485124920494854
+  rhythmicContrast: 0.7664535527583212
+  brandColors:
+    - '#FFFFFF'
+    - '#FB0596'
+    - '#FCAE04'
+    - '#000000'
+    - '#FC73F9'
+name: 'Grid#1'
